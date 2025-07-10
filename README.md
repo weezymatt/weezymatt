@@ -1,5 +1,5 @@
 ### Hiya, I'm Matthew 👋
-I'm a computational linguist (or interdisciplinary practioner) interested in language technology, machine learning, and leveraging LLMs to explain certain linguistic & cognitive phenomenon.
+I'm a computational linguist interested in language technology, machine learning, and leveraging LLMs to explain certain linguistic & cognitive phenomenon.
 
 - 🌱 I’m currently learning about ontologies & taxonomies, machine translation, and MLOps
 - 🔭 I’m currently contributing to open-source software or answering discussions
