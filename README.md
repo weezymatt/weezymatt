@@ -1,8 +1,10 @@
 ### Hiya, I'm Matthew 👋
-I'm a computational linguist interested in language technology, machine learning, and leveraging LLMs to explain certain linguistic & cognitive phenomenon.
+I'm a computational linguist with experience in machine learning, data management, and language technology. My recent experience includes fine-tuning NLP models for low-resource languages, and constructing novel datasets to support various linguistic phenomenon and evaluate LLMs on them.
 
 - 🌱 I’m currently learning about ontologies & taxonomies, machine translation, and MLOps
-- 🔭 I’m currently contributing to open-source software or answering discussions
+- 👨🏽‍💻 I’m currently contributing to open-source software and responding to discussions (it helps prevent skills from being rusty!)
+- 📖 I'm also translating various code documentation in Spanish
+- 🏃‍♂️ Stay health and keep running
 
 #### Links
   - Website: [weezymatt.github.io](https://weezymatt.github.io/)
