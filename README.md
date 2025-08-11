@@ -1,8 +1,7 @@
 ### 👋 Hello
 
-My name is Matthew Alexander Hernandez (my full name just for kicks). I'm an aspiring computational linguist with experience in machine learning, data management, and language technology. 
-
-Recently I've worked on surveying low-resource languages and fine-tuning NLP models on them. As well as constructing novel datasets to support various linguistic phenomenon and evaluate LLMs on them.
+My name is Matthew. I'm a computational linguist trained in language technology, machine learning, and data science. Experience includes
+research for machine translation, building datasets for linguistic phenomena, and a range of roles in healthcare.
 
 <!--
 - 🌱 I’m currently learning about ontologies & taxonomies, machine translation, and MLOps
