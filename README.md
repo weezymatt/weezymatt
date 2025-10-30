@@ -1,7 +1,7 @@
 ### 👋 Hello
 
-My name is Matthew. I'm a computational linguist trained in language technology, machine learning, and data science. Experience includes
-research for machine translation, building datasets for linguistic phenomena, and a range of roles in healthcare.
+My name is Matthew. I'm a computational linguist with expertise in NLP, machine learning, and data science; experienced in machine
+translation, data creation for language phenomena, user preference annotation, and exploring KGs & ontologies.
 
 <!--
 - 🌱 I’m currently learning about ontologies & taxonomies, machine translation, and MLOps
