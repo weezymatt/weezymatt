@@ -1,7 +1,6 @@
 ### 👋 Hello
 
-My name is Matthew. I'm a computational linguist with expertise in NLP, machine learning, and data science; experienced in machine
-translation, data creation for language phenomena, user preference annotation, and exploring KGs & ontologies.
+Computational linguist with expertise in NLP, machine learning, and data science; experienced in machine translation, data creation for language phenomena, multi-modal annotation, and exploring knowledge graphs
 
 <!--
 - 🌱 I’m currently learning about ontologies & taxonomies, machine translation, and MLOps
@@ -9,10 +8,12 @@ translation, data creation for language phenomena, user preference annotation, a
 - 📖 I'm also translating various code documentation into Spanish
 - Stay healthy🍎, keep running🏃‍♂️, and build some LEGO 🏗️🧱
 -->
-
+<!--
 ####  🔗 Links
   - Website: [weezymatt.github.io](https://weezymatt.github.io/)
   - LinkedIn: [in/wzmatth](https://www.linkedin.com/in/wzmatth/)
+-->
+
 <!--
 **weezymatt/weezymatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
