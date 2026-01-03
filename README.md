@@ -1,13 +1,7 @@
 ### 👋 Hello
 
-Computational linguist with expertise in NLP, machine learning, and data science; experienced in machine translation, data creation for language phenomena, multi-modal annotation, and exploring knowledge graphs
+Computational linguist with expertise in NLP, machine learning, and data science; experienced in machine translation, data creation for language phenomena, multi-modal annotation, and exploring knowledge graphs.
 
-<!--
-- 🌱 I’m currently learning about ontologies & taxonomies, machine translation, and MLOps
-- 👨🏽‍💻 I’m currently contributing to open-source software and responding to discussions (helps prevent skills from being rusty!)
-- 📖 I'm also translating various code documentation into Spanish
-- Stay healthy🍎, keep running🏃‍♂️, and build some LEGO 🏗️🧱
--->
 <!--
 ####  🔗 Links
   - Website: [weezymatt.github.io](https://weezymatt.github.io/)
